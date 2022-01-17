@@ -32,4 +32,6 @@ Esta tarefa é dividida nas seguintes etapas:
 
 ## Google Colab
 
-Abaixo, os links para a execução dos notebooks no Google Colab.
+Abaixo, o link para a execução dos notebooks no Google Colab.
+
+https://colab.research.google.com/drive/1iZNR6BzjzNUsc7za8oT54756eJmpLqW7?usp=sharing
